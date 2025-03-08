@@ -1,0 +1,15 @@
+{
+  "CPP Boilerplate": {
+    "prefix": "cppbase",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using ll = long long;",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "\t$0",
+      "}"
+    ],
+    "description": "C++ Competitive Programming Starter"
+  }
+}
